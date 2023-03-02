@@ -17,7 +17,7 @@ def stop_animation():
 
 def animate(event, animation=None):
     if not animation: 
-        animation = ["/","-","\\","|"]
+        animation = ["Loading /","Loading -","Loading \\","Loading |"]
     # itertools cycle will continously cycle through list
     for c in itertools.cycle(animation):
         # checking if event variable raise to set
