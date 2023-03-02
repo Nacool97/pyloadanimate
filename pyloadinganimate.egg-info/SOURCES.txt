@@ -1,0 +1,10 @@
+README.md
+setup.py
+pyloadanimate/__init__.py
+pyloadanimate/load_animation.py
+pyloadinganimate.egg-info/PKG-INFO
+pyloadinganimate.egg-info/SOURCES.txt
+pyloadinganimate.egg-info/dependency_links.txt
+pyloadinganimate.egg-info/top_level.txt
+tests/__init__.py
+tests/test_loadanimation.py
